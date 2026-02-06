@@ -1,0 +1,7 @@
+{
+  "name": "voltaire-effect",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for voltaire-effect - Effect.ts integration for Voltaire Ethereum primitives",
+  "author": "tevm",
+  "license": "MIT"
+}

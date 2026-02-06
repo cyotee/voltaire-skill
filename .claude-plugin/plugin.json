@@ -1,0 +1,21 @@
+{
+  "name": "voltaire-effect",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for voltaire-effect - Effect.ts integration for Voltaire Ethereum primitives. Covers typed errors, dependency injection, composable workflows, branded types, cryptographic services, contract interactions, and streaming.",
+  "author": {
+    "name": "tevm",
+    "url": "https://voltaire-effect.tevm.sh"
+  },
+  "keywords": [
+    "typescript",
+    "effect",
+    "voltaire",
+    "ethereum",
+    "branded-types",
+    "dependency-injection",
+    "typed-errors",
+    "crypto",
+    "web3"
+  ],
+  "license": "MIT"
+}
